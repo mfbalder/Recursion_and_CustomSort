@@ -47,3 +47,5 @@ def custom_bubble_sort(alist):
     return alist
 
 print custom_bubble_sort([10, 2, 3, 5, 7, 15, 1])
+
+print custom_bubble_sort(['cat', 'llama', 'albatross', 'elephant', 'emu'])
